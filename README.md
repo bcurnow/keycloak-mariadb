@@ -1,2 +1,3 @@
-# keycloak-mariadb
-Optimized version of keycloak for mariadb
+Optimized version of Keycloak for mariadb.
+
+This is taken from https://www.keycloak.org/server/containers
